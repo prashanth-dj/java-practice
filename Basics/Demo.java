@@ -9,5 +9,6 @@ public class Demo {
             arr[i]=i;
         }
         System.out.println(Arrays.toString(arr));
+        System.out.println("Prashanth");
     }
 }
